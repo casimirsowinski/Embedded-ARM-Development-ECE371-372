@@ -1,5 +1,7 @@
 # Embedded-ARM-Development-ECE371-372
 
+For documentation and a full write-up, visit my site: www.casimirsowinski.wordpress.com
+
 This program takes a incoming information packet, checks the checksum, and transfers it if appropriate. 
 
 It's basic operation is:
